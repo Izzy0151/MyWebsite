@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('LemonMilkBold-gx2B3.eot');
+    src: url('LemonMilkBold-gx2B3.eot?#iefix') format('embedded-opentype'),
+         url('LemonMilkBold-gx2B3.woff2') format('woff2'),
+         url('LemonMilkBold-gx2B3.woff') format('woff'),
+         url('LemonMilkBold-gx2B3.otf')  format('truetype'),
+         url('LemonMilkBold-gx2B3.svg') format('svg');
+}
